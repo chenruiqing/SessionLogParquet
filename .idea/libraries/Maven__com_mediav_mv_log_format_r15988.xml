@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mediav:mv-log-format:r15988">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mediav/mv-log-format/r15988/mv-log-format-r15988.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mediav/mv-log-format/r15988/mv-log-format-r15988-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mediav/mv-log-format/r15988/mv-log-format-r15988-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

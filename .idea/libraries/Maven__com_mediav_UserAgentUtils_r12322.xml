@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mediav:UserAgentUtils:r12322">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mediav/UserAgentUtils/r12322/UserAgentUtils-r12322.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mediav/UserAgentUtils/r12322/UserAgentUtils-r12322-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mediav/UserAgentUtils/r12322/UserAgentUtils-r12322-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
